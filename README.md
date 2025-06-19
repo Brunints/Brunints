@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 📚 Atualmente estou aprendendo **C#**  <br>- 🎯 Objetivo: melhorar cada vez mais na área de desenvolvimento  <br>- 🎲 Curiosidade: adoro músicas e estou sempre com fone de ouvido enquanto programo 🎧</p>
+<p align="left">- 📚 I'm currently learning **C#**<br>- 🎯 Goal: to improve more and more in the development area<br>- 🎲 Fun fact: I love music and I always wear headphones while programming 🎧</p>
 
 ###
 
