@@ -42,5 +42,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+## :chart_with_upwards_trend: GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunints&layout=compact&theme=dark)
 ###
