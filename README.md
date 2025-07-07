@@ -1,48 +1,43 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-###
+My name is Bruno Matos and I'm a software developer, from Brazil.
 
-<p align="left">My name is Bruno Matos and I'm a software developer, from Brazil.</p>
+---
 
-###
+## About me
 
-<h2 align="left">About me</h2>
+- 📚 I'm currently learning **C#**
+- 🎯 Goal: to improve more and more in the development area
+- 🎲 Fun fact: I love music and I always wear headphones while programming 🎧
 
-###
+---
 
-<p align="left">- 📚 I'm currently learning **C#**<br>- 🎯 Goal: to improve more and more in the development area<br>- 🎲 Fun fact: I love music and I always wear headphones while programming 🎧</p>
+## I code with
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60"/>
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## Connect with me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+<p align="center">
+  <a href="https://discordapp.com/users/your-discord-id">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@brunints" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/brunin.mts/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bruno-matos-576ab136b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-## :chart_with_upwards_trend: GitHub Stats
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunints&layout=compact&theme=dark)
-###
+---
+
+⭐️ From **Bruno Matos**
