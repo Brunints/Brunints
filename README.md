@@ -15,7 +15,7 @@
 <!-- ABOUT -->
 ## 💜 About Me
 
-- 💻 Currently learning **JavaScript and C#**
+- 💻 Currently learning **JavaScript**
 - 🎯 Focused on improving my software development skills
 - 🎧 Music lover and always coding with headphones
 - 🌎 Based in Brazil 🇧🇷
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" />
 
 </div>
 
