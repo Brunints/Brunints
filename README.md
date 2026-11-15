@@ -15,7 +15,7 @@
 <!-- ABOUT -->
 ## 💜 About Me
 
-- 💻 Currently learning **C#**
+- 💻 Currently learning **JS**
 - 🎯 Focused on improving my software development skills
 - 🎧 Music lover and always coding with headphones
 - 🌎 Based in Brazil
