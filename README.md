@@ -15,10 +15,10 @@
 <!-- ABOUT -->
 ## 💜 About Me
 
-- 💻 Currently learning **JS**
+- 💻 Currently learning **JavaScript and C#**
 - 🎯 Focused on improving my software development skills
 - 🎧 Music lover and always coding with headphones
-- 🌎 Based in Brazil
+- 🌎 Based in Brazil 🇧🇷
 
 <!-- TECHNOLOGIES -->
 ## ⚡ Technologies & Tools
@@ -55,6 +55,7 @@
 <a href="https://github.com/Brunints">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/brunin.mts">
 <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
