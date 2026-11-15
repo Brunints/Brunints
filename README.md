@@ -1,52 +1,70 @@
 
+<!-- HEADER -->
 <div align="center">
 
-# Hey 👋 What's up?
+# Bruno Matos 👋
 
-### I'm Bruno Matos, a software developer from 🇧🇷 Brazil.
+### Software Developer | Brazil 🇧🇷
+
+*Building, learning and improving every day.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:bd5cff&height=2&section=header" width="100%"/>
 
 </div>
 
----
+<!-- ABOUT -->
+## 💜 About Me
 
-## 💜 About me
+- 💻 Currently learning **C#**
+- 🎯 Focused on improving my software development skills
+- 🎧 Music lover and always coding with headphones
+- 🌎 Based in Brazil
 
-- 💻 I'm currently learning **C#**
-- 🎯 Goal: to improve more and more in software development.
-- 🎧 Fun fact: I love music and always wear headphones while programming.
-
----
-
-## ⚡ Technologies
+<!-- TECHNOLOGIES -->
+## ⚡ Technologies & Tools
 
 <div align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=js,nodejs,cs" />
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,cs&theme=dark" />
+
 </div>
 
----
-
-## 🌐 Connect with me
+<!-- GITHUB STATS -->
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://www.instagram.com/brunin.mts">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Brunints&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunints&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+
+</div>
+
+<!-- STREAK -->
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Brunints&theme=midnight-purple&hide_border=true&background=0D1117"/>
+
+</div>
+
+<!-- SOCIAL -->
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/Brunints">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/brunin.mts">
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Brunints&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunints&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+*Thanks for visiting my profile! 💜*
 
 </div>
